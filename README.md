@@ -1,5 +1,5 @@
 
-<p align="center">Hey, you found me! </p>
+<h3 align="center">Hey, you found me! </h3>
 
 ---
 
