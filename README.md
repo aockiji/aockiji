@@ -1,5 +1,5 @@
 
-<p align="center">Hi, you found me! </p>
+<p align="center">Hey, you found me! </p>
 
 ---
 
@@ -21,6 +21,11 @@
 
 </div>
 
+---
+
+### My stats 😌
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=favourrr-a&theme=github-dark-dimmed&hide_border=true)](https://git.io/streak-stats)
+---
 <img src="https://komarev.com/ghpvc/?username=favourrr-a&style=flat-square&color=blue" alt=""/>
 <!---
 favourrr-a/favourrr-a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
