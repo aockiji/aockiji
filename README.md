@@ -8,7 +8,7 @@
 
 ### About me:
 + I'm a student at University of Ghana, Legon.
-+ Right now, I’m interested in web development. 
++ Right now, I’m interested in web development... buttt I genuinely want to work in cybersecuirity
 + Fun fact: I can say the first 100 digits of pi.
 ---
 ### Stuff I can do
