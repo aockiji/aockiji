@@ -29,6 +29,7 @@
 
 ### My stats 😌
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=favourrr-a&theme=github-dark-dimmed&hide_border=true)](https://git.io/streak-stats)
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
 ---
 <img src="https://komarev.com/ghpvc/?username=favourrr-a&style=flat-square&color=blue" alt=""/>
 <!---
