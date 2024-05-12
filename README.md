@@ -1,8 +1,8 @@
-<div align="center">
+<div align="left">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJiajBvZHJnbmtuenQ2bXRiNGtrYTh2cGV6bW81MzcwNG5oYzVoZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/200.webp" alt = "code GIF"/>
 </div>
   
-<h3 align="center"> Hey, you found me! </h3>
+<h3 align="left"> Hey, you found me! </h3>
 
 ---
 
