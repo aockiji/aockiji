@@ -6,7 +6,7 @@
 
 
 ### About me:
-+ I'm a student at University of Ghana, Legon studying Bsc. Mathematical Science, Computer Science with Mathematics
++ I'm a student at University of Ghana studying Bsc. Mathematical Science, Computer Science with Mathematics
 + Right now, I’m interested in back-end web development.
 + Fun fact: I can say the first 100 digits of pi.
 
