@@ -7,7 +7,7 @@
 
 ### About me:
 + I'm a student at University of Ghana studying Bsc. Mathematical Science, Computer Science with Mathematics
-+ Right now, I’m interested in back-end web development.
++ Right now, I’m interested in back-end web development, and python scripting.
 + Fun fact: I can say the first 100 digits of pi.
 
 ### Stuff I can do
