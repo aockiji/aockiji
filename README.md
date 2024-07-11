@@ -7,7 +7,7 @@
 
 ### About me:
 + I'm a student at University of Ghana studying Bsc. Mathematical Science, Computer Science with Mathematics
-+ Right now, I’m interested in back-end web development, and python scripting.
++ Right now, I’m interested in back-end engineering and DSA.
 + Fun fact: I can say the first 100 digits of pi.
 
 ### Stuff I can do
@@ -24,6 +24,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="POSTMAN" alt="POSTMAN" width="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongoDB" alt="mongoDB" width="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40"/>&nbsp;
 
 </div>
 
@@ -32,7 +33,7 @@
 ### My stats 😌
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=favourrr-a&theme=github-dark-dimmed&hide_border=true)](https://git.io/streak-stats)
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
-<img src="https://komarev.com/ghpvc/?username=favourrr-a&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=favourrr-a&style=flat-square&color=blue" alt="my streak is supposed to show here"/>
 
 #### My website
 <a href = "https://favourrr-a.github.io/portfolio-website"><img src="desktop-solid.svg" title="desktop-solid-icon" alt="desktop-icon" width="40" height="40"/></a>
