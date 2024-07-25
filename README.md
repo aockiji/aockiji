@@ -34,11 +34,6 @@
 ### My stats 😌
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=favourrr-a&theme=github-dark-dimmed&hide_border=true)](https://git.io/streak-stats)
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
-<img src="https://komarev.com/ghpvc/?username=favourrr-a&style=flat-square&color=blue" alt="my streak is supposed to show here"/>
-
-#### My website
-<a href = "https://favourrr-a.github.io/portfolio-website"><img src="desktop-solid.svg" title="desktop-solid-icon" alt="desktop-icon" width="40" height="40"/></a>
-
 <!---
 favourrr-a/favourrr-a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
