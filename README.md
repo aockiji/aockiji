@@ -29,10 +29,6 @@
 
 </div>
 
-
-
-### My stats 😌
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=favourrr-a&theme=github-dark-dimmed&hide_border=true)](https://git.io/streak-stats)
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
 <!---
 favourrr-a/favourrr-a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
