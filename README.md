@@ -1,8 +1,8 @@
-Computer Science with Maths
+Computer Science with Mathematics
 
 #### Languages and Tools
 <div>
-      Python • Java • C++ • Bash
+      C++ • Python • Java • Bash
 </div>
 
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
